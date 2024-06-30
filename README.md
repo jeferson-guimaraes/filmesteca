@@ -1,12 +1,12 @@
 # Aplicação consumindo API externa TMDb
 
-![GitHub](https://img.shields.io/github/license/JefersonGuimaraes/filmesteca)
+![GitHub](https://img.shields.io/github/license/jeferson-guimaraes/filmesteca)
 
 ## Sobre o projeto
 
 Este projeto foi desenvolvido junto a video aula: [Projeto de filmes com react e API do TMDB (React Router, React Hooks)](https://www.youtube.com/watch?v=XqxUHVVO7-U&ab_channel=MatheusBattisti-HoradeCodar) do professor [Matheus Battisti](https://github.com/matheusbattisti). Participei desta aula com intuíto de conhecer melhor as tecnologias utilizadas.
 
-O projeto consiste em uma aplicação que exibe os dez filmes melhores raqueados segundo a [TMDb](https://developer.themoviedb.org/docs/getting-started), trazendo informações sobre cada um deles.
+O projeto consiste em uma aplicação que exibe os dez filmes melhor raqueados segundo a [TMDb](https://developer.themoviedb.org/docs/getting-started), trazendo informações sobre cada um deles.
 
 ### Funcionalidades
 
