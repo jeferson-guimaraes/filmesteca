@@ -1,6 +1,6 @@
 # Aplicação consumindo API externa TMDb
 
-![GitHub](https://img.shields.io/github/license/JefersonGuimaraes/filmesteca)
+![GitHub](https://img.shields.io/github/license/jeferson-guimaraes/filmesteca)
 
 ## Sobre o projeto
 
